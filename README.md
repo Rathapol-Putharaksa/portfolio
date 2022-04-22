@@ -16,7 +16,7 @@ https://github.com/6110613228/Glaucoma-classification-project<br>
 https://github.com/Rathapol-Putharaksa/project-barcodeScanner<br>
 
 ---
-### cn332-Course-Enrollmen
+### cn332-Course-Enrollment
 https://github.com/6110613228/cn332-Course-Enrollment<br>
 
 ---
